@@ -1,10 +1,6 @@
-ipykernel
-numpy
 pandas
-matplotlib
-seaborn
-statistic
-statistics
-scipy
-statsmodels
 scikit-learn
+numpy
+
+
+-e .
